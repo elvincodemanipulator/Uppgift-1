@@ -1,0 +1,29 @@
+body{
+    background-color: crimson;
+}
+p{
+    color: indigo;
+}
+
+.huvudrubrik {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+.program {
+    background-color: darkred;
+    color: deeppink;
+}
+
+.kursen {
+    text-align: right;
+
+}
+
+.mig {
+    border: 5px solid cornflowerblue;
+}
+
+a{
+    text-decoration: none;
+}
